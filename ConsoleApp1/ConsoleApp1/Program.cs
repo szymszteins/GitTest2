@@ -16,6 +16,8 @@ namespace ConsoleApp1
             Console.WriteLine("Code was added in VS");
 
             //Code to call Feature1
+            
+            //Code to call Feature 2
 
             //code to call Feature 2
         }
