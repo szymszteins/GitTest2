@@ -13,6 +13,7 @@ namespace ConsoleApp1
             //code was added in github
             Console.WriteLine("Welcome in github.com dude!");
             Console.WriteLine("Welcome in github.com dude!");
+            Console.WriteLine("Code was added in VS");
         }
     }
 }
