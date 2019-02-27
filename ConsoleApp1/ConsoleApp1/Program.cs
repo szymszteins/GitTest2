@@ -10,6 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            //code was added in github
+            Console.WriteLine("Welcome in github.com dude!");
         }
     }
 }
